@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan T</h1>
-<h3 align="center" style="margin:8px 0">A passionate frontend developer</h3>
+<h3 align="center" style="margin:8px 0">Frontend developer</h3>
 <img align="right" style="margin:8px 0;padding:5px" alt="coding" width= "500" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" >
 
 - 🔭 I’m currently working on **Web Dev and ML**
