@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **React, TailwindCss, Javascript**
+- 💬 Ask me about **NextJs , React, TailwindCss, Javascript**
 
-- 📫 How to reach me **adithsreedhar628@gmail.com**
+- 📫 How to reach me **adithyant.mail@gmail.com**
 
 
 ## 🌐 Socials:
